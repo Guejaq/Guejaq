@@ -1,8 +1,8 @@
-#¡Hola! Soy Guejaq
+# ¡Hola! Soy Guejaq
 
 Soy un Desarrolaldor Frontend en desarrollo, con conocimientos intermedios en HTML y básico en CSS, para luego seguir con JS.
 
-##Puedes encontrarme en:
+## Puedes encontrarme en:
 
 - [LinkedIn](www.linkedin.com/in/adrianguejaq)
 - [Facebook](https://www.facebook.com/adrianguejaq)
