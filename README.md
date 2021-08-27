@@ -4,6 +4,6 @@ Soy un Desarrolaldor Frontend en desarrollo, con conocimientos intermedios en HT
 
 ##Puedes encontrarme en:
 
-- [LinkedIn] www.linkedin.com/in/adrianguejaq
-- [Facebook] https://www.facebook.com/adrianguejaq
-- [Instagram] https://www.instagram.com/adrian_guejaq/
+- [LinkedIn] (www.linkedin.com/in/adrianguejaq)
+- [Facebook] (https://www.facebook.com/adrianguejaq)
+- [Instagram] (https://www.instagram.com/adrian_guejaq/)
