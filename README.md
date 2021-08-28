@@ -9,5 +9,5 @@ Soy un Desarrolaldor Frontend en desarrollo, con conocimientos intermedios en HT
 
 ## Puedes encontrarme en:
 
-[![Linkedin Badge](https://img.shields.io/badge/-Neel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gorasiyaneel/)](https://www.linkedin.com/in/adrianguejaq) [![Instagram Badge](https://img.shields.io/badge/-@Neel-e4405f?style=flat-square&labelColor=f94877&logo=instagram&logoColor=white&link=https://www.instagram.com/Neel/)](https://www.instagram.com/adrian_guejaq/)
+[![Linkedin Badge](https://img.shields.io/badge/-adrianguejaq-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adrianguejaq/)](https://www.linkedin.com/in/adrianguejaq) [![Instagram Badge](https://img.shields.io/badge/-@adrian_guejaq-e4405f?style=flat-square&labelColor=f94877&logo=instagram&logoColor=white&link=https://www.instagram.com/adrian_guejaq/)](https://www.instagram.com/adrian_guejaq/)
 - [Facebook](https://www.facebook.com/adrianguejaq)
