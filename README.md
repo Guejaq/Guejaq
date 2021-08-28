@@ -10,4 +10,3 @@ Soy un Desarrolaldor Frontend en desarrollo, con conocimientos intermedios en HT
 ## Puedes encontrarme en:
 
 [![Linkedin Badge](https://img.shields.io/badge/-adrianguejaq-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adrianguejaq/)](https://www.linkedin.com/in/adrianguejaq) [![Facebook Badge](https://img.shields.io/badge/-adrianguejaq-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/adrianguejaq)](https://www.facebook.com/adrianguejaq) [![Instagram Badge](https://img.shields.io/badge/-@adrian_guejaq-e4405f?style=flat-square&labelColor=f94877&logo=instagram&logoColor=white&link=https://www.instagram.com/adrian_guejaq/)](https://www.instagram.com/adrian_guejaq/)
-- [Facebook](https://www.facebook.com/adrianguejaq)
