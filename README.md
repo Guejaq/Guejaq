@@ -8,6 +8,9 @@ Soy un Desarrolaldor Frontend en desarrollo, con conocimientos intermedios en HT
 ## Control de versiones: 
 <img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF"> <img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
 
+## Lenguajes:
+<img src="http://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=white">
+
 ## Editores:
 <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
 
